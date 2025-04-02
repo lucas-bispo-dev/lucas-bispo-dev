@@ -4,11 +4,10 @@ I started my developer career in 2022 and hold a degree in Systems Analysis and 
 I'm always eager to learn, contribute to open-source projects, and collaborate with talented developers. Feel free to connect! 🚀
 ##
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=180 src="https://github-readme-stats.vercel.app/api?username=lucas-bispo-dev&show_icons=true&theme=radical&rank_icon=github" />
+  <img height=150 src="https://github-readme-stats.vercel.app/api?username=lucas-bispo-dev&show_icons=true&theme=radical&rank_icon=github" />
 </a>
-&nbsp;&nbsp;
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs?username=lucas-bispo-dev&layout=compact&langs_count=8&card_width=250&theme=radical" />
+  <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs?username=lucas-bispo-dev&layout=compact&langs_count=8&card_width=200&theme=radical" />
 </a>
 
 ##
